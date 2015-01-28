@@ -7,7 +7,7 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 
 Credits:
 ================
-* Pokepeel[For creating ProjectE Mod]
+* ProjectE Team[For creating ProjectE Mod]
 * Nuttyprot [for Creating the textures][Retired From Texturing
 * DrakeBD [Editing and Creating the pack]
 
